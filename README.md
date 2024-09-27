@@ -2,6 +2,7 @@
 
 Take a look at some of my projects:
 
+- [AI-Powered Web Accessibility Enhancer with RAG and Disability Simulation](https://github.com/iamudyavar/AccessAI)
 - [S&P 500 Price Prediction Using a Recurrent Neural Network](https://github.com/iamudyavar/stock-prediction-recurrent-neural-network)
 - [Artificial Neural Network Implementation](https://github.com/iamudyavar/banana_quality_neural_network)
 - [Implementing Big Data Machine Learning Jobs using Apache Spark](https://github.com/iamudyavar/big-data-research-project)
