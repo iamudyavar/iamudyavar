@@ -28,4 +28,4 @@ Welcome to my GitHub profile! I'm passionate about harnessing the power of **mac
   Implementing an ANN model from scratch to classify banana quality based on various factors.
 
 - [**Testing Scalable Machine Learning Workflows Using Apache Spark**](https://github.com/iamudyavar/big-data-research-project)  
-  Testing the scalability of machine learning workflows using Apache Spark.
+  Applying Apache Spark to common machine learning workflows and comparing the results to traditional libraries.
