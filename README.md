@@ -1,9 +1,8 @@
 # Hi there 👋, I'm Aditya!
 
-Welcome to my GitHub profile! I'm passionate about harnessing the power of **machine learning** and **full-stack development** to build innovative and impactful solutions. Below, you'll find a selection of projects showcasing my work across these domains.
+Welcome to my GitHub profile! I'm passionate about harnessing the power of **machine learning** and **full-stack development** to build innovative and impactful solutions.
 
 ### 🔍 **Machine Learning Projects**
-Explore my work in data-driven insights and AI models:
 
 - [**S&P 500 Price Prediction Using a Recurrent Neural Network**](https://github.com/iamudyavar/stock-prediction-recurrent-neural-network)  
   A project leveraging Recurrent Neural Networks (RNN) to predict stock prices of the S&P 500 index.
@@ -15,10 +14,9 @@ Explore my work in data-driven insights and AI models:
   Testing the scalability of machine learning workflows by leveraging the distributed processing power of Apache Spark.
 
 ### 🌐 **Full-Stack Applications**
-Here are some exciting full-stack applications that integrate AI and modern web technologies:
 
 - [**AI-Powered Web Accessibility Enhancer with RAG and Disability Simulation**](https://github.com/iamudyavar/AccessAI)  
-  A cutting-edge tool leveraging generative AI and Retrieval-Augmented Generation (RAG) to improve web accessibility, complete with a disability simulator (AWS Breaking Barriers Hackathon).
+  An application leveraging generative AI and Retrieval-Augmented Generation (RAG) to improve web accessibility, complete with a disability simulator (AWS Breaking Barriers Hackathon).
 
 - [**LLM-Powered Healthcare Assistant with Predictive Analytics**](https://github.com/KhromeM/meddy)  
   A healthcare assistant built with a large language model (LLM), designed to provide predictive health analytics and intelligent responses.
