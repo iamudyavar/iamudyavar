@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about harnessing the power of **mac
   A project leveraging Recurrent Neural Networks (RNN) to predict stock prices of the S&P 500 index.
 
 - [**Artificial Neural Network for Banana Quality Prediction**](https://github.com/iamudyavar/banana_quality_neural_network)  
-  Implementing an ANN model from scratch to classify banana quality based on various factors.
+  Implementation of an artificial neural network from scratch for a classification problem.
 
 - [**Testing Scalable Machine Learning Workflows Using Apache Spark**](https://github.com/iamudyavar/big-data-research-project)  
   Applying Apache Spark to common machine learning workflows and comparing the results to traditional libraries.
