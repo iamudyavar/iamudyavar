@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Aditya!
+# Hi there 👋, I'm Aditya
 
-Welcome to my GitHub profile! I'm passionate about harnessing the power of **machine learning** and **full-stack development** to build innovative and impactful solutions.
+Welcome to my profile! I'm passionate about harnessing the power of **machine learning** and **full-stack development** to build innovative and impactful solutions.
 
 ### 🌐 **Full-Stack Applications**
 
