@@ -2,17 +2,6 @@
 
 Welcome to my GitHub profile! I'm passionate about harnessing the power of **machine learning** and **full-stack development** to build innovative and impactful solutions.
 
-### 🔍 **Machine Learning Projects**
-
-- [**S&P 500 Price Prediction Using a Recurrent Neural Network**](https://github.com/iamudyavar/stock-prediction-recurrent-neural-network)  
-  A project leveraging Recurrent Neural Networks (RNN) to predict stock prices of the S&P 500 index.
-
-- [**Artificial Neural Network for Banana Quality Prediction**](https://github.com/iamudyavar/banana_quality_neural_network)  
-  Implementing an ANN model to classify banana quality based on various factors.
-
-- [**Testing Scalable Machine Learning Workflows Using Apache Spark**](https://github.com/iamudyavar/big-data-research-project)  
-  Testing the scalability of machine learning workflows by leveraging the distributed processing power of Apache Spark.
-
 ### 🌐 **Full-Stack Applications**
 
 - [**AI-Powered Web Accessibility Enhancer with RAG and Disability Simulation**](https://github.com/iamudyavar/AccessAI)  
@@ -29,3 +18,14 @@ Welcome to my GitHub profile! I'm passionate about harnessing the power of **mac
 
 - [**Dynamic Video Translation with Synced Subtitles and Text-to-Speech**](https://github.com/acm-projects/Envoy)  
   An app that translates videos using synced subtitles and text-to-speech powered by a custom algorithm (1st place ACM Projects winner).
+
+### 🔍 **Machine Learning Projects**
+
+- [**S&P 500 Price Prediction Using a Recurrent Neural Network**](https://github.com/iamudyavar/stock-prediction-recurrent-neural-network)  
+  A project leveraging Recurrent Neural Networks (RNN) to predict stock prices of the S&P 500 index.
+
+- [**Artificial Neural Network for Banana Quality Prediction**](https://github.com/iamudyavar/banana_quality_neural_network)  
+  Implementing an ANN model to classify banana quality based on various factors.
+
+- [**Testing Scalable Machine Learning Workflows Using Apache Spark**](https://github.com/iamudyavar/big-data-research-project)  
+  Testing the scalability of machine learning workflows by leveraging the distributed processing power of Apache Spark.
