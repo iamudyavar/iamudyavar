@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Aditya
 
-Welcome to my profile! Take a look at some of the **machine learning** and **full-stack development** projects I've built.
+Welcome to my profile! Take a look at some of the **machine learning** and **full-stack** projects I've built.
 
 ### 🌐 **Full-Stack Applications**
 
