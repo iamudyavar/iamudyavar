@@ -21,6 +21,9 @@ Welcome to my profile! Take a look at some of the **machine learning** and **ful
 
 ### 🔍 **Machine Learning Projects**
 
+- [**ER Patient Triaging with Computer Vision**](https://github.com/Retrospek/GuardianCV)  
+  Generative-AI powered tool that leverages computer vision to quickly and accurately triage patients in medical environments.
+
 - [**S&P 500 Price Prediction Using a Recurrent Neural Network**](https://github.com/iamudyavar/stock-prediction-recurrent-neural-network)  
   A project leveraging Recurrent Neural Networks (RNN) to predict stock prices of the S&P 500 index.
 
