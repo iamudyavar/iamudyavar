@@ -7,7 +7,7 @@ Welcome to my profile! Take a look at some of the **machine learning** and **ful
 - [**AI-Powered Web Accessibility Enhancer with Disability Simulations**](https://github.com/iamudyavar/AccessAI)  
   An application leveraging generative AI, Retrieval-Augmented Generation (RAG), and a disability simulator to improve web accessibility (AWS Breaking Barriers Hackathon).
 
-- [**LLM-Powered Healthcare Assistant with Predictive Analytics**](https://github.com/KhromeM/meddy)  
+- [**Gemini-Powered Healthcare Assistant with Predictive Analytics**](https://github.com/KhromeM/meddy)  
   A healthcare assistant designed to provide predictive health analytics and intelligent responses.
 
 - [**Real Estate Investment Assistant Using Blockchain and Machine Learning**](https://github.com/ManishMallik/Coppington)  
