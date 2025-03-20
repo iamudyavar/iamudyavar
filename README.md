@@ -1,30 +1,20 @@
 # Hi there 👋, I'm Aditya
 
-Welcome to my profile! Take a look at some of the **machine learning** and **full-stack** projects I've built.
+Welcome to my profile! Take a look at some of the projects I've built.
 
-### 🌐 **Full-Stack Applications**
+- [**Web Accessibility Auditing Tool**](https://github.com/iamudyavar/AccessAI)  
+  A tool leveraging generative AI, Retrieval-Augmented Generation (RAG), and a disability simulator to improve web accessibility (AWS Breaking Barriers Hackathon).
 
-- [**AI-Powered Web Accessibility Enhancer with Disability Simulations**](https://github.com/iamudyavar/AccessAI)  
-  An application leveraging generative AI, Retrieval-Augmented Generation (RAG), and a disability simulator to improve web accessibility (AWS Breaking Barriers Hackathon).
-
-- [**Gemini-Powered Healthcare Assistant with Predictive Analytics**](https://github.com/KhromeM/meddy)  
-  A healthcare assistant designed to provide predictive health analytics and intelligent responses.
-
-- [**Real Estate Investment Assistant Using Blockchain and Machine Learning**](https://github.com/ManishMallik/Coppington)  
-  A tool that combines blockchain technologies with a machine learning-powered real estate model to make property investment more accessible and transparent.
-
-- [**AI Learning App with Flashcards and Quizzes**](https://github.com/acm-projects/Summer)  
-  An AI-powered learning app that generates personalized learning plans, flashcards, and quizzes based on video content to enhance learning efficiency.
-
-- [**Dynamic Video Translation with Synced Subtitles and Text-to-Speech**](https://github.com/acm-projects/Envoy)  
-  An app that translates videos using synced subtitles and text-to-speech powered by a custom algorithm (1st place ACM Projects winner).
-
-### 🔍 **Machine Learning Projects**
+- [**Healthcare Assistant with Predictive Analytics**](https://github.com/KhromeM/meddy)  
+  A healthcare assistant designed to provide predictive health analytics and intelligent responses using Google Gemini.
 
 - [**ER Patient Triaging with Computer Vision**](https://github.com/Retrospek/GuardianCV)  
-  Generative-AI powered tool that leverages computer vision to quickly and accurately triage patients in medical environments.
+  Uses computer vision and GenAI powered tool to quickly and accurately triage patients in medical environments (TAMUhack).
 
-- [**S&P 500 Price Prediction Using a Recurrent Neural Network**](https://github.com/iamudyavar/stock-prediction-recurrent-neural-network)  
+- [**Dynamic Video Translation with Synced Subtitles and Text-to-Speech**](https://github.com/acm-projects/Envoy)  
+  An app that translates videos wirh subtitles and text-to-speech powered by a custom syncing algorithm (1st place ACM Projects winner).
+
+- [**Stock Price Prediction with Recurrent Neural Network**](https://github.com/iamudyavar/stock-prediction-recurrent-neural-network)  
   A project leveraging Recurrent Neural Networks (RNN) to predict stock prices of the S&P 500 index.
 
 - [**Artificial Neural Network for Banana Quality Prediction**](https://github.com/iamudyavar/banana_quality_neural_network)  
@@ -32,3 +22,7 @@ Welcome to my profile! Take a look at some of the **machine learning** and **ful
 
 - [**Testing Scalable Machine Learning Workflows Using Apache Spark**](https://github.com/iamudyavar/big-data-research-project)  
   Applying Apache Spark to common machine learning workflows and comparing the results to traditional libraries.
+
+- [**Real Estate Investment Platform with Blockchain and Machine Learning**](https://github.com/ManishMallik/Coppington)  
+  A platform that combines blockchain tokenization with a machine learning model to make property investment more accessible and transparent (HackUTD winner).
+
