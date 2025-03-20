@@ -2,19 +2,19 @@
 
 Welcome to my profile! Take a look at some of the projects I've built.
 
+- [**ER Patient Triaging with Computer Vision**](https://github.com/Retrospek/GuardianCV)  
+  Uses computer vision and GenAI to quickly and accurately triage patients in medical environments (TAMUhack).
+
 - [**Web Accessibility Auditing Tool**](https://github.com/iamudyavar/AccessAI)  
-  A tool leveraging generative AI, Retrieval-Augmented Generation (RAG), and a disability simulator to improve web accessibility (AWS Breaking Barriers Hackathon).
+  Leverages generative AI, Retrieval-Augmented Generation (RAG), and a disability simulator to improve web accessibility (AWS Breaking Barriers Hackathon).
 
 - [**Healthcare Assistant with Predictive Analytics**](https://github.com/KhromeM/meddy)  
-  A healthcare assistant designed to provide predictive health analytics and intelligent responses using Google Gemini.
-
-- [**ER Patient Triaging with Computer Vision**](https://github.com/Retrospek/GuardianCV)  
-  Uses computer vision and GenAI powered tool to quickly and accurately triage patients in medical environments (TAMUhack).
+  A healthcare assistant designed to provide predictive health analytics and intelligent responses using Google Gemini, Epic FHIR, and Google Fit.
 
 - [**Dynamic Video Translation with Synced Subtitles and Text-to-Speech**](https://github.com/acm-projects/Envoy)  
-  An app that translates videos wirh subtitles and text-to-speech powered by a custom syncing algorithm (1st place ACM Projects winner).
+  An app that translates videos with subtitles and text-to-speech powered by a custom syncing algorithm (1st place ACM Projects winner).
 
-- [**Stock Price Prediction with Recurrent Neural Network**](https://github.com/iamudyavar/stock-prediction-recurrent-neural-network)  
+- [**Stock Price Prediction with a Recurrent Neural Network**](https://github.com/iamudyavar/stock-prediction-recurrent-neural-network)  
   A project leveraging Recurrent Neural Networks (RNN) to predict stock prices of the S&P 500 index.
 
 - [**Artificial Neural Network for Banana Quality Prediction**](https://github.com/iamudyavar/banana_quality_neural_network)  
