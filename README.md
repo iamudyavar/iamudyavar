@@ -8,7 +8,7 @@ Welcome to my profile! Take a look at some of the projects I've built.
 - [**Web Accessibility Auditing Tool**](https://github.com/iamudyavar/AccessAI)  
   Leverages generative AI, Retrieval-Augmented Generation (RAG), and a disability simulator to improve web accessibility (AWS Breaking Barriers Hackathon).
 
-- [**Healthcare Assistant with Predictive Analytics**](https://github.com/KhromeM/meddy)  
+- [**Healthcare Assistant with Predictive Analytics**](https://github.com/iamudyavar/meddy)  
   A healthcare assistant designed to provide predictive health analytics and intelligent responses using Google Gemini, Epic FHIR, and Google Fit.
 
 - [**Dynamic Video Translation with Synced Subtitles and Text-to-Speech**](https://github.com/acm-projects/Envoy)  
