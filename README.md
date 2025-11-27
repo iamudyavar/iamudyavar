@@ -21,7 +21,7 @@ Welcome to my profile! Take a look at some of the projects I've built.
   A platform that combines blockchain tokenization with a machine learning model to make property investment more accessible and transparent (HackUTD winner).
   
 - [**Stock Price Prediction with a Recurrent Neural Network**](https://github.com/iamudyavar/stock-prediction-recurrent-neural-network)  
-  Implementation of a Recurrent Neural Networks (RNN) to predict stock prices of the S&P 500 index.
+  Implementation of a Recurrent Neural Network (RNN) to predict stock prices of the S&P 500 index.
 
 - [**Artificial Neural Network for Banana Quality Prediction**](https://github.com/iamudyavar/banana_quality_neural_network)  
   Implementation of an artificial neural network from scratch for a classification problem.
