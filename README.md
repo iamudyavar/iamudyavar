@@ -2,8 +2,8 @@
 
 Welcome to my profile! Take a look at some of the projects I've built.
 
-- [**Real-Time Valorant Esports App**](https://github.com/iamudyavar/valorant-competitive-tracker-mobile)  
-  A passion project to track professional Valorant matches live using a custom scraping engine. Built with React Native, a Convex database, and a Node.js backend deployed on Coolify.
+- [**Real-Time Valorant Esports App**](https://github.com/iamudyavar/valorant-competitive-tracker-mobile) <br>
+  A passion project to track professional Valorant matches live using a custom scraping engine. Built with React Native, a Convex database, and a Node.js backend deployed on Coolify.
 
 - [**Healthcare Assistant with Predictive Analytics**](https://github.com/iamudyavar/meddy)  
   A healthcare assistant designed to provide predictive health analytics and intelligent responses using Google Gemini, Epic FHIR, and Google Fit (Gemini API Competition).
