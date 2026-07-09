@@ -1,4 +1,4 @@
-Hi there 👋, I'm Aditya. I'm a software engineer with expertise in machine learning, particularly passionate about NLP, Deep Learning, and LLM architectures. My go-to languages are Python, Java, and JavaScript.
+Hi there 👋, I'm Aditya. I'm a software engineer with expertise in machine learning, particularly passionate about NLP, Deep Learning, LLM architectures, and AI agents. My go-to languages are Python, Java, and JavaScript.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-udyavar)
 
